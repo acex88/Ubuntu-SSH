@@ -1,1 +1,2 @@
-echo this can run commands in terminal tho
+git config --global user.email "abhinav.115260@gmail.com"
+git config --global user.name "acex88"
